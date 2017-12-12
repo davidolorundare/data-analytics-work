@@ -1,6 +1,6 @@
 # Data Analytics work
 
-Academic Project - A Three data-analytics miniprojects done in an academic course.
+Academic Project - Three data-analytics mini-projects done in an academic course.
 
 - "KMEANS Chicago Food Inspection" explored the use of the K-means clustering algorithm on a Chicago
 Food-inspection dataset. Clustering the data and answering useful queries about the nature of its content.
