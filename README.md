@@ -13,5 +13,5 @@ Academic Project - Three data-analytics mini-projects done in a Data Science aca
 
 ## Usage: 
 
-Each project-folder contains a Jupyter notebook with python-code and analysis, as well as the accompanying dataset that was analyzed. Execution of any of the project, requires installation of [Jupyter/IPython notebook](http://jupyter.org/) . 
-Installation details for Jupyter Notebook can be found [here.](http://jupyter.org/install.html) 
+Each project-folder contains a Jupyter notebook with python-code and analysis, as well as the accompanying dataset that was analyzed. Execution of any of the project, requires installation of [Jupyter/IPython notebook](http://jupyter.org/). 
+Installation details for Jupyter Notebook can be found [here](http://jupyter.org/install.html).
